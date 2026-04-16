@@ -368,9 +368,9 @@ The system models a compact electronics cabinet housing multiple heat-generating
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/779a08ad-51f0-4c9a-b54d-0bd94b8974cc" />
 
 
-*Step 6 of 14: The **SST k-ω (two-equation)** turbulence model is selected from the options: Zero equation, k-ε (two equations), RNG k-ε, Spalart-Allmaras, Enhanced k-ε, Realisable k-ε, SST k-ω.*
+*Step 6 of 14: The **Zero-equation** turbulence model is selected from the options: Zero equation, k-ε (two equations), RNG k-ε, Spalart-Allmaras, Enhanced k-ε, Realisable k-ε, SST k-ω.*
 
-> **Theory:** The **SST (Shear Stress Transport) k-ω** model combines the k-ω model near walls (where it is accurate in adverse pressure gradients) with the k-ε model in the free stream (where k-ω is sensitive to free-stream conditions). It is the recommended model for internal cooling applications with separated flows and fin geometries.
+> **Theory:** The Zero Equation model is a simplified turbulence model used for flow simulations where computational efficiency is prioritized over high accuracy. It is commonly used for internal flows such as channel flow or airflow through fins. This model does not solve additional transport equations for turbulence. Instead, it estimates turbulent viscosity using algebraic relations.
 
 <br>
 
