@@ -1,5 +1,4 @@
 # Semiconductor Packaging
-This GitHub repository serves as documentation for the 10-day [Semiconductor Packaging - Fundamentals of Design and Testing](https://www.vlsisystemdesign.com/packaging/) workshop conducted by [VSD Corp. Pvt. Ltd.](https://www.vlsisystemdesign.com/) 
 ## Module 1
 #### Why is semiconductor packaging needed?
 - Semiconductor packaging is the process of enclosing a fabricated silicon die in a protective structure that enables reliable electrical connections between the integrated circuit (IC) and the external system. It acts as the critical interface between the microscopic on-chip circuitry and the macroscopic electronic environment in which the IC operates.
